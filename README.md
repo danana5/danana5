@@ -8,4 +8,4 @@ I love music, football and movies... Love a good software so I do and I like chi
 
 -DG xxx
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danana5)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=danana5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
