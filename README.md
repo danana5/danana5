@@ -1,6 +1,6 @@
 >Don't half ass two things... Whole ass one thing - Ron Swanson
 
-I'm currently studying Computer Science in Trinity College Dublin.
+I'm finished college!!!!!!!!!
 
 -DG xxx
 
